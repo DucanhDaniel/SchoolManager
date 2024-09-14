@@ -1,0 +1,101 @@
+[
+	{
+		"id" : 1,
+		"teacher_id" : "T008",
+		"faculty" : "Science",
+		"first_name" : "Emily",
+		"last_name" : "Davis",
+		"email" : "emily.davis@example.com",
+		"username" : "emilydavis",
+		"password" : "password108",
+		"salary" : 50000
+	},
+	{
+		"id" : 2,
+		"teacher_id" : "T009",
+		"faculty" : "Arts",
+		"first_name" : "Daniel",
+		"last_name" : "Thompson",
+		"email" : "daniel.thompson@example.com",
+		"username" : "danielthompson",
+		"password" : "password209",
+		"salary" : 55000
+	},
+	{
+		"id" : 3,
+		"teacher_id" : "T010",
+		"faculty" : "Engineering",
+		"first_name" : "Olivia",
+		"last_name" : "Martin",
+		"email" : "olivia.martin@example.com",
+		"username" : "oliviamartin",
+		"password" : "password310",
+		"salary" : 60000
+	},
+	{
+		"id" : 4,
+		"teacher_id" : "T011",
+		"faculty" : "Business",
+		"first_name" : "Sophia",
+		"last_name" : "Anderson",
+		"email" : "sophia.anderson@example.com",
+		"username" : "sophiaanderson",
+		"password" : "password411",
+		"salary" : 65000
+	},
+	{
+		"id" : 5,
+		"teacher_id" : "T012",
+		"faculty" : "Nurse",
+		"first_name" : "Ava",
+		"last_name" : "Taylor",
+		"email" : "ava.taylor@example.com",
+		"username" : "avataylor",
+		"password" : "password512",
+		"salary" : 70000
+	},
+	{
+		"id" : 6,
+		"teacher_id" : "T013",
+		"faculty" : "Nursing",
+		"first_name" : "Isabella",
+		"last_name" : "Miller",
+		"email" : "isabella.miller@example.com",
+		"username" : "isabellamiller",
+		"password" : "password613",
+		"salary" : 75000
+	},
+	{
+		"id" : 7,
+		"teacher_id" : "T014",
+		"faculty" : "Nursing",
+		"first_name" : "Mia",
+		"last_name" : "Williams",
+		"email" : "mia.williams@example.com",
+		"username" : "miawilliams",
+		"password" : "password114",
+		"salary" : 60000
+	},
+	{
+		"id" : 8,
+		"teacher_id" : "T015",
+		"faculty" : "Nursing",
+		"first_name" : "Noah",
+		"last_name" : "Brown",
+		"email" : "noah.brown@example.com",
+		"username" : "noahbrown",
+		"password" : "password215",
+		"salary" : 65000
+	},
+	{
+		"id" : 9,
+		"teacher_id" : "T016",
+		"faculty" : "Nursing",
+		"first_name" : "Liam",
+		"last_name" : "Jones",
+		"email" : "liam.jones@example.com",
+		"username" : "liamjones",
+		"password" : "password316",
+		"salary" : 70000
+	}
+]

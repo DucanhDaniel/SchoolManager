@@ -1,0 +1,57 @@
+[
+	{
+		"id" : 1,
+		"student_id" : "S001",
+		"first_name" : "John",
+		"last_name" : "Doe",
+		"email" : "john.doe@example.com",
+		"username" : "johndoe",
+		"password" : "password123",
+		"gpa" : 3.5,
+		"cpa" : 3.8
+	},
+	{
+		"id" : 2,
+		"student_id" : "S003",
+		"first_name" : "Michael",
+		"last_name" : "Brown",
+		"email" : "michael.brown@example.com",
+		"username" : "michaelbrown",
+		"password" : "password101",
+		"gpa" : 3.6,
+		"cpa" : 3.7
+	},
+	{
+		"id" : 3,
+		"student_id" : "S004",
+		"first_name" : "Sarah",
+		"last_name" : "Anderson",
+		"email" : "sarah.anderson@example.com",
+		"username" : "sarahanderson",
+		"password" : "password202",
+		"gpa" : 3.8,
+		"cpa" : 3.9
+	},
+	{
+		"id" : 4,
+		"student_id" : "S005",
+		"first_name" : "David",
+		"last_name" : "Taylor",
+		"email" : "david.taylor@example.com",
+		"username" : "davidtaylor",
+		"password" : "password303",
+		"gpa" : 3.7,
+		"cpa" : 3.8
+	},
+	{
+		"id" : 6,
+		"student_id" : "S007",
+		"first_name" : "Daniel",
+		"last_name" : "Wilson",
+		"email" : "daniel.wilson@example.com",
+		"username" : "danielwilson",
+		"password" : "password505",
+		"gpa" : 3.6,
+		"cpa" : 3.7
+	}
+]
